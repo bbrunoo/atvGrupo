@@ -7,7 +7,7 @@ namespace tarefa
     {
         static void Main(string[] args)
         {
-                        ;
+            
             WriteLine("Digite o numero da tabuada");
             double num = Convert.ToInt32(ReadLine());
 
