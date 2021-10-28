@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\bin\Debug\net5.0\tarefa.exe
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\bin\Debug\net5.0\tarefa.deps.json
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\bin\Debug\net5.0\tarefa.runtimeconfig.json
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\bin\Debug\net5.0\tarefa.runtimeconfig.dev.json
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\bin\Debug\net5.0\tarefa.dll
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\bin\Debug\net5.0\ref\tarefa.dll
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\bin\Debug\net5.0\tarefa.pdb
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.AssemblyInfo.cs
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.dll
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\ref\tarefa.dll
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.pdb
+D:\projetos\ams\1ano\tarefaGrupo\tarefa\obj\Debug\net5.0\tarefa.genruntimeconfig.cache
