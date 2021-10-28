@@ -14,7 +14,7 @@ Gabriel Ramos - Deu dicas sobre o que fazer.
 
 Otavio Bonelli - Ajudou a desenvolver o codigo.
 
-Guilherme Pessoa - Ideia principal do tema.
+Guilherme Pessoa - Deu a ideia principal do tema.
 
 Todos ajudaram, ficamos pensando sobre o que fazer, e fizemos uma tabuada utilizando a estrutura de repetição for.
 
