@@ -1,6 +1,9 @@
 ----------------------------
-|    Atividade em grupo    |
+
+   Atividade em grupo    
+
 ----------------------------
+
 Integrantes:
 
 Alexandre Cabral - Ajudou a desenvolver o codigo.
